@@ -1,0 +1,6 @@
+*.tif
+data_raw/
+data_processed/
+__pycache__/
+*.pyc
+.DS_Store
