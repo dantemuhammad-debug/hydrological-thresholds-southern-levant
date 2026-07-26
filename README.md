@@ -15,6 +15,14 @@ This is an open methodological framework, not a validated historical model. The 
 identifies and visualizes environmental variables; it does not reconstruct itineraries or
 claim proof for narrative events.
 
+## Download the Research Note
+
+A PDF version of the accompanying research note is available here:
+
+[Download *Hydrological Thresholds and Narrative Geography: A Research Note*](Hydrological_Thresholds_and_Narrative_Geography_Research_Note.pdf)
+
+[Read the public-facing essay on Medium](https://medium.com/@dante.muhammad/geography-is-not-decoration-hydrological-method-in-ancient-near-eastern-landscape-analysis-9137d905537e)
+
 ## Contents
 
 - `scripts/` — SRTM preparation, hillshade generation, simplified D8-style flow routing,
@@ -36,6 +44,4 @@ Tiles used:
 
 ## Citation
 
-Muhammad, Dante. *Hydrological Thresholds and Narrative Geography: A Research Note
-on Terrain, Drainage, and Environmental Memory in the Southern Levant.* Covenant
-Research LLC, 2026.
+Muhammad, Dante. *Hydrological Thresholds and Narrative Geography: A Research Note on Terrain, Drainage, and Environmental Memory in the Southern Levant.* Covenant Research LLC, 2026.
