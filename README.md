@@ -15,6 +15,14 @@ This is an open methodological framework, not a validated historical model. The 
 identifies and visualizes environmental variables; it does not reconstruct itineraries or
 claim proof for narrative events.
 
+## Research context
+
+This repository contains reproducible GIS and hydrological materials supporting a broader
+investigation of terrain, water, movement corridors, and political geography in the ancient
+southern Levant. Related essays, the research hub, and *We Were Not Looking: Reconstructing
+the Patriarchal World Through Ancient Near Eastern Context* are available at
+[dantemuhammad.com](https://www.dantemuhammad.com/essays?utm_source=github&utm_medium=readme).
+
 ## Download the Research Note
 
 A PDF version of the accompanying research note is available here:
