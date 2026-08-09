@@ -1,0 +1,178 @@
+Yabboq Drainage Validation — Final Comparison
+============================================
+
+This file consolidates the observed drainage/reference agreement, the simple density-matched random-cell null, and the terrain-matched null.
+
+Terrain-matched controls approximately preserve elevation, slope, and ruggedness distributions.
+
+Neither null preserves complete drainage-network topology.
+
+Reference hydrography was used for evaluation rather than construction of the terrain-derived drainage model.
+
+250-cell flow threshold
+--------------------------------
+30 m tolerance
+  Observed agreement: 8.14%
+  Simple random null mean: 2.11%
+  Terrain-matched null mean: 3.15%
+  Terrain null 95% interval: 3.01% to 3.30%
+  Observed - random null: +6.03 pp
+  Observed - terrain null: +4.99 pp
+  Random-null empirical p: 0.0020
+  Terrain-null empirical p: 0.0020
+
+60 m tolerance
+  Observed agreement: 9.20%
+  Simple random null mean: 3.31%
+  Terrain-matched null mean: 4.26%
+  Terrain null 95% interval: 4.08% to 4.44%
+  Observed - random null: +5.89 pp
+  Observed - terrain null: +4.93 pp
+  Random-null empirical p: 0.0020
+  Terrain-null empirical p: 0.0020
+
+90 m tolerance
+  Observed agreement: 10.34%
+  Simple random null mean: 4.96%
+  Terrain-matched null mean: 5.88%
+  Terrain null 95% interval: 5.68% to 6.07%
+  Observed - random null: +5.38 pp
+  Observed - terrain null: +4.46 pp
+  Random-null empirical p: 0.0020
+  Terrain-null empirical p: 0.0020
+
+150 m tolerance
+  Observed agreement: 12.27%
+  Simple random null mean: 7.67%
+  Terrain-matched null mean: 8.69%
+  Terrain null 95% interval: 8.46% to 8.90%
+  Observed - random null: +4.60 pp
+  Observed - terrain null: +3.58 pp
+  Random-null empirical p: 0.0020
+  Terrain-null empirical p: 0.0020
+
+300 m tolerance
+  Observed agreement: 17.60%
+  Simple random null mean: 14.13%
+  Terrain-matched null mean: 15.81%
+  Terrain null 95% interval: 15.51% to 16.10%
+  Observed - random null: +3.48 pp
+  Observed - terrain null: +1.79 pp
+  Random-null empirical p: 0.0020
+  Terrain-null empirical p: 0.0020
+
+500-cell flow threshold
+--------------------------------
+30 m tolerance
+  Observed agreement: 9.95%
+  Simple random null mean: 2.12%
+  Terrain-matched null mean: 3.70%
+  Terrain null 95% interval: 3.47% to 3.91%
+  Observed - random null: +7.83 pp
+  Observed - terrain null: +6.25 pp
+  Random-null empirical p: 0.0020
+  Terrain-null empirical p: 0.0020
+
+60 m tolerance
+  Observed agreement: 11.17%
+  Simple random null mean: 3.32%
+  Terrain-matched null mean: 4.86%
+  Terrain null 95% interval: 4.59% to 5.10%
+  Observed - random null: +7.85 pp
+  Observed - terrain null: +6.31 pp
+  Random-null empirical p: 0.0020
+  Terrain-null empirical p: 0.0020
+
+90 m tolerance
+  Observed agreement: 12.41%
+  Simple random null mean: 4.98%
+  Terrain-matched null mean: 6.54%
+  Terrain null 95% interval: 6.23% to 6.83%
+  Observed - random null: +7.43 pp
+  Observed - terrain null: +5.86 pp
+  Random-null empirical p: 0.0020
+  Terrain-null empirical p: 0.0020
+
+150 m tolerance
+  Observed agreement: 14.43%
+  Simple random null mean: 7.69%
+  Terrain-matched null mean: 9.50%
+  Terrain null 95% interval: 9.16% to 9.86%
+  Observed - random null: +6.76 pp
+  Observed - terrain null: +4.93 pp
+  Random-null empirical p: 0.0020
+  Terrain-null empirical p: 0.0020
+
+300 m tolerance
+  Observed agreement: 19.63%
+  Simple random null mean: 14.15%
+  Terrain-matched null mean: 17.05%
+  Terrain null 95% interval: 16.61% to 17.49%
+  Observed - random null: +5.50 pp
+  Observed - terrain null: +2.57 pp
+  Random-null empirical p: 0.0020
+  Terrain-null empirical p: 0.0020
+
+1000-cell flow threshold
+--------------------------------
+30 m tolerance
+  Observed agreement: 14.12%
+  Simple random null mean: 2.11%
+  Terrain-matched null mean: 4.39%
+  Terrain null 95% interval: 4.02% to 4.77%
+  Observed - random null: +12.02 pp
+  Observed - terrain null: +9.74 pp
+  Random-null empirical p: 0.0020
+  Terrain-null empirical p: 0.0020
+
+60 m tolerance
+  Observed agreement: 15.64%
+  Simple random null mean: 3.31%
+  Terrain-matched null mean: 5.63%
+  Terrain null 95% interval: 5.21% to 6.05%
+  Observed - random null: +12.35 pp
+  Observed - terrain null: +10.02 pp
+  Random-null empirical p: 0.0020
+  Terrain-null empirical p: 0.0020
+
+90 m tolerance
+  Observed agreement: 16.95%
+  Simple random null mean: 4.97%
+  Terrain-matched null mean: 7.45%
+  Terrain null 95% interval: 6.97% to 7.94%
+  Observed - random null: +12.00 pp
+  Observed - terrain null: +9.50 pp
+  Random-null empirical p: 0.0020
+  Terrain-null empirical p: 0.0020
+
+150 m tolerance
+  Observed agreement: 19.09%
+  Simple random null mean: 7.67%
+  Terrain-matched null mean: 10.67%
+  Terrain null 95% interval: 10.11% to 11.27%
+  Observed - random null: +11.46 pp
+  Observed - terrain null: +8.41 pp
+  Random-null empirical p: 0.0020
+  Terrain-null empirical p: 0.0020
+
+300 m tolerance
+  Observed agreement: 24.11%
+  Simple random null mean: 14.16%
+  Terrain-matched null mean: 18.93%
+  Terrain null 95% interval: 18.21% to 19.68%
+  Observed - random null: +10.01 pp
+  Observed - terrain null: +5.18 pp
+  Random-null empirical p: 0.0020
+  Terrain-null empirical p: 0.0020
+
+Interpretation
+--------------
+Observed terrain-derived drainage agreement exceeds both the simple density-matched random-cell null and the terrain-matched null across the tested thresholds and spatial tolerances.
+
+The terrain-matched result indicates that the observed correspondence is not explained merely by placing the same number of cells in broadly similar elevation, slope, and ruggedness conditions.
+
+These results are evidence about spatial correspondence between terrain-derived drainage structure and independent mapped hydrography.
+
+They do not identify an ancient route, establish a historical itinerary, or demonstrate that the modern reference hydrography exactly represents ancient channels.
+
+A future topology-preserving or network-structured null would provide a stronger second-stage robustness test.
