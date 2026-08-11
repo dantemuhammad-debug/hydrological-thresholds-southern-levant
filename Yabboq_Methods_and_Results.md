@@ -420,4 +420,4 @@ The first Yabboq validation cycle is complete through:
 
 A topology-preserving drainage-network null remains a possible second-stage robustness analysis.
 
-The current results should therefore be understood as a reproducible first-stage validation of the terrain-derived drainage method, not as final historical validation of the broader sacred-geographic hypothesis.
+The current results should therefore be understood as a reproducible first-stage validation of the terrain-derived drainage method, not as final historical validation of the broader sacred-geographic hypothesis. 
