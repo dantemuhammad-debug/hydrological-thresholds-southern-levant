@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this software or workflow, please cite it as below."
+title: "Hydrological Thresholds in the Southern Levant"
+authors:
+  - family-names: "Muhammad"
+    given-names: "Dante K."
+    orcid: "https://orcid.org/0009-0000-7514-2570"
+    affiliation: "Covenant Research LLC"
+version: 0.1.0
+date-released: 2026-07-23
+url: "https://github.com/dantemuhammad-debug/hydrological-thresholds-southern-levant"
+repository-code: "https://github.com/dantemuhammad-debug/hydrological-thresholds-southern-levant"
+license: "GPL-3.0-or-later"
+keywords:
+  - GIS
+  - hydrology
+  - terrain analysis
+  - paleohydrology
+  - historical geography
+  - Southern Levant
+  - Yabboq
+  - Wadi Zarqa
