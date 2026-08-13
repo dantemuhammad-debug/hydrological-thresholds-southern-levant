@@ -1,5 +1,5 @@
 # Hydrological Thresholds in the Southern Levant
-
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21925937.svg)](https://doi.org/10.5281/zenodo.21925937)
 ## A Terrain-First Geospatial Research Workflow
 
 This repository documents a reproducible GIS workflow for testing whether hydrological and topographic structure can be derived independently from terrain and then evaluated against external spatial data.
