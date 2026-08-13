@@ -210,3 +210,25 @@ The current validation cycle is implemented sequentially through Python scripts:
 05_terrain_matched_null.py
 06_build_final_comparison.py
 07_plot_final_comparison.py
+---
+
+## Licensing, Citation, and Archiving
+
+This repository separates software, documentation, and research notes by license and citation layer.
+
+- **Code:** GNU General Public License v3.0
+- **Documentation and author-created figures:** CC BY-NC 4.0
+- **Citation metadata:** `CITATION.cff`
+- **Zenodo metadata:** `.zenodo.json`
+
+The completed controlled validation currently applies to the **Yabboq / Wadi Zarqa basin**.
+
+A proposed next methodological phase examines whether terrain-first hydrological modeling can recover relict channel structure in avulsing deltaic landscapes before subsurface verification.
+
+See:
+
+**[Proposed Next Phase: Eastern Nile Delta Paleohydrology](docs/avaris-hydrology-note.md)**
+
+The eastern Nile Delta work is **proposed, not yet validated**.
+
+For citation information, use the repository’s **“Cite this repository”** control or the `CITATION.cff` file.
