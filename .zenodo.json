@@ -1,0 +1,25 @@
+{
+  "title": "Hydrological Thresholds in the Southern Levant",
+  "description": "A terrain-first geospatial research workflow for evaluating hydrological and topographic structure independently from historical interpretation, with current validation focused on the Yabboq/Wadi Zarqa basin and a proposed delta-control extension.",
+  "creators": [
+    {
+      "name": "Muhammad, Dante K.",
+      "affiliation": "Covenant Research LLC",
+      "orcid": "0009-0000-7514-2570"
+    }
+  ],
+  "keywords": [
+    "GIS",
+    "hydrology",
+    "terrain analysis",
+    "paleohydrology",
+    "historical geography",
+    "Southern Levant",
+    "Yabboq",
+    "Wadi Zarqa",
+    "delta controls",
+    "reproducible research"
+  ],
+  "license": "GPL-3.0-or-later",
+  "upload_type": "software"
+}
